@@ -46,19 +46,8 @@ body {
 
 #mensagem-terminal {
     border-right: 0.15em solid #1e3a4d; /* o Cursor */
-    margin: 0 auto; /*  */
     letter-spacing: 0.15em;
     white-space: pre;
-}
-
-/* A animação de typewritter */
-@keyframes typing {
-    from {
-        width: 0;
-    }
-    to {
-        width: 100%;
-    }
 }
 
 /* O Efeito no curso de typewritter */
